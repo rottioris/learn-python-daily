@@ -1,8 +1,3 @@
-
-
-from traceback import print_tb
-
-
 dic = {'c1':'v1','c2':'v2'}
 res = dic['c1']
 
